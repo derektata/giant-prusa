@@ -19,13 +19,15 @@ Links to all the of the parts/software are included below:
 
 ### Just so you know 💭
 
-All of the models with "**remix**" in the name are parts that I modified to work with this printer.
+- All of the models with "**remix**" in the name are parts that I modified to work with this printer.
 
-- I've also added both styles of E3D Clamps to the extruder folder, to help facilitate those who want to use an 18mm Capacitive ABL sensor and for others that don't.
+    - I've also added both styles of E3D Clamps to the extruder folder, to help facilitate those who want to use an 18mm Capacitive ABL sensor and for others that don't.
 
-- The **`minimalist extruder lever`** needs to be mirrored in the slicer before printing in order for it to work with this design.
+    - The **`minimalist extruder lever`** needs to be mirrored in the slicer before printing in order for it to work with this design.
 
 ### NOTE ⚠️
+
+- **PLEASE** make sure that your printer is calibrated before attempting to print these parts. A lot of these parts can be printed without supports but there some that require them. Another option if you don't have a printer available to you would be to order them from an online 3D printing service.
 
 You **WILL** have to measure and cut the Carbon Fiber Rods down to size, **PLEASE** use the proper PPE, measure twice to be precise and **BE SAFE** while cutting the rods down to size. You don't want to breathe any of the dust produced while cutting as it extremely hazardous to your lungs.
 
