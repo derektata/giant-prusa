@@ -2,9 +2,9 @@
 ### 🧰 currently a work in progress 🛠️
 A repo that converts an Anet A8 Plus into a GIANT Prusa MK3S with a few other slight modifications.
 
-All of the models with "**remix**" in the name are parts that I modified to work with this printer.
-
 #### Just so you know...
+
+All of the models with "**remix**" in the name are parts that I modified to work with this printer.
 
 I've also added both styles of E3D Clamps to the extruder folder, to help facilitate those who want to use an 18mm Capacitive ABL sensor.
 
