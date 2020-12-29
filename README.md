@@ -41,13 +41,8 @@ I'm currently waiting on a few more parts to come in the mail, that will greatly
 I would like to give a huge thank you to all of these folks who's designs helped me frankenstein this whole thing together, without your help this would've been a lot more difficult.
 
 - **3Displacement** - Extruder Carriage | [thing:3942196](https://www.thingiverse.com/thing:3942196)
-
     - **whosawhatsis** - Minimalistic MK7 Extruder Lever | [thing:15718](https://www.thingiverse.com/thing:15718)
-
 - **pekcitron** - X-Axis (BearExxa) | [thing:4362586](https://www.thingiverse.com/thing:4362586)
-
 - **Maxinoha** - Y-Axis Holder/ Motor Mount/ Idler-Tensioner | [thing:2394683](https://www.thingiverse.com/thing:2394683)
-
 - **Prusa 3D** - Z Axis Top/Bottom | [Original Prusa i3 MK3S](https://www.prusa3d.com/prusa-i3-printable-parts/)
-
 - **six101** - Simple Bearing Block | [thing:2553537](https://www.thingiverse.com/thing:2553537)
