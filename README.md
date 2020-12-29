@@ -10,7 +10,7 @@ Links to all the of the parts/software are included below:
 
 - [BIGTREETECH SKR 1.4 Turbo w/ TMC 2209 Drivers](https://www.amazon.com/gp/product/B082QYYFVX/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [Raspberry Pi 3 B+](https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
-    - [Octoprint](https://octoprint.org/)
+    - [OctoPrint](https://octoprint.org/)
 - [Genuine E3D V6 Hotend](https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 - [Capacitive Auto Bed Leveling](https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 - [Silicone Bed Springs](https://www.amazon.com/gp/product/B07RZKF8MB/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
@@ -35,6 +35,8 @@ I'm currently waiting on a few more parts to come in the mail, that will greatly
 
 * [ ] Add photos
 * [ ] Add custom firmware
+* [ ] Add list of parts needed
+* [ ] Add list of OctoPrint plugins
 
 ### Shout Outs 📣
 
