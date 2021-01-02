@@ -9,13 +9,16 @@ A repo that converts an Anet A8 Plus into a GIANT Prusa MK3S with a few other sl
 Links to all the of the parts/software are included below:
 
 - [BIGTREETECH SKR 1.4 Turbo w/ TMC 2209 Drivers](https://www.amazon.com/gp/product/B082QYYFVX/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+    - [40mm x 10mm Fan (2 Pack)](https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Raspberry Pi 3 B+](https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+    - [MP1584EN DC-DC Buck Converter](https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
     - [OctoPrint](https://octoprint.org/)
 - [Genuine E3D V6 Hotend](https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 - [Capacitive Auto Bed Leveling](https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 - [Silicone Bed Springs](https://www.amazon.com/gp/product/B07RZKF8MB/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 - [Igus Drylin Polymer Bearings](https://www.amazon.com/gp/product/B071RSDYW4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Carbon Fiber Rods - 6mm ID x 8mm OD x 500mm](https://www.amazon.com/gp/product/B00RWXJYVE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+- [2020 Right-Angle Bracket](https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 ### Just so you know 💭
 
