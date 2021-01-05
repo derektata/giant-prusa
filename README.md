@@ -12,6 +12,7 @@ Links to all the of the parts/software are included below:
     - [40mm x 10mm Fan (2 Pack)](https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Raspberry Pi 3 B+](https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
     - [MP1584EN DC-DC Buck Converter](https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+    - [Left-Angle USB Micro B Cable](https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
     - [OctoPrint](https://octoprint.org/)
 - [Genuine E3D V6 Hotend](https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 - [Capacitive Auto Bed Leveling](https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
@@ -19,10 +20,13 @@ Links to all the of the parts/software are included below:
 - [Igus Drylin Polymer Bearings](https://www.amazon.com/gp/product/B071RSDYW4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Carbon Fiber Rods - 6mm ID x 8mm OD x 500mm](https://www.amazon.com/gp/product/B00RWXJYVE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [2020 Right-Angle Bracket](https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [T8 Lead Screw POM Nuts (2 Pack)](https://www.amazon.com/gp/product/B07Y6CN9J4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 ### Just so you know 💭
 
-- All of the models with "**remix**" in the name are parts that I modified to work with this printer.
+- All of the models with **`remix`** in the name are parts that I modified to work with this printer.
+
+- However, The **`Control Box`** is my own creation, taking some inspiration from how Creality styled their displays.
 
     - I've also added both styles of E3D Clamps to the extruder folder, to help facilitate those who want to use an 18mm Capacitive ABL sensor and for others that don't.
 
