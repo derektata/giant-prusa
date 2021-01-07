@@ -24,6 +24,12 @@ Links to all the of the parts/software are included below:
 
 ### Just so you know 💭
 
+#### This is NOT a beginner project, and definitely NOT for the faint of heart.
+
+with that being said, if you have any questions, feel free to ask in the Discussion tab. 
+
+
+
 - All of the models with **`remix`** in the name are parts that I modified to work with this printer.
 
 - However, The **`Control Box`** is my own creation, taking some inspiration from how Creality styled their displays.
@@ -43,9 +49,10 @@ You **WILL** have to measure and cut the Carbon Fiber Rods down to size, **PLEAS
 I'm currently waiting on a few more parts to come in the mail, that will greatly assist me with the photo documentation of this build.
 
 * [ ] Add photos
-* [ ] Add custom firmware
+* [x] Add custom firmware
 * [ ] Add list of parts needed
 * [ ] Add list of OctoPrint plugins
+* [ ] Create an Instruction Wiki
 
 ### Shout Outs 📣
 
