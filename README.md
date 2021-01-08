@@ -12,7 +12,7 @@ Links to all the of the parts/software are included below:
     - [40mm x 10mm Fan (2 Pack)](https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Raspberry Pi 3 B+](https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
     - [MP1584EN DC-DC Buck Converter](https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-    - [Left-Angle USB Micro B Cable](https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+    - [Left-Angle Micro B USB Cable](https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
     - [OctoPrint](https://octoprint.org/)
 - [Genuine E3D V6 Hotend](https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 - [Capacitive Auto Bed Leveling](https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
