@@ -24,11 +24,11 @@ Links to all the of the parts/software are included below:
 
 ### Just so you know 💭
 
-#### This is NOT a beginner project, and definitely NOT for the faint of heart.
+#### This is NOT a beginner project, and definitely NOT for the faint of heart. 
 
-with that being said, if you have any questions, feel free to ask in the Discussion tab. 
+##### It is currently in active development, and being updated regularly.
 
-
+With that being said, if you have any questions, feel free to ask in the Discussion tab.
 
 - All of the models with **`remix`** in the name are parts that I modified to work with this printer. Credits to all of the original authors are listed below.
 
