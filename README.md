@@ -16,7 +16,7 @@ Links to all the of the parts/software are included below:
     - [OctoPrint](https://octoprint.org/)
 - [Genuine E3D V6 Hotend](https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 - [Capacitive Auto Bed Leveling](https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-- [Silicone Bed Springs](https://www.amazon.com/gp/product/B07RZKF8MB/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+- [Metal Spacer Bed "Springs"](https://www.etsy.com/listing/941679083/metal-spacer-bed-springs?ref=shop_home_feat_1)
 - [Igus Drylin Polymer Bearings](https://www.amazon.com/gp/product/B071RSDYW4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Carbon Fiber Rods - 6mm ID x 8mm OD x 500mm](https://www.amazon.com/gp/product/B00RWXJYVE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [2020 Right-Angle Bracket](https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
