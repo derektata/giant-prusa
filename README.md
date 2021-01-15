@@ -23,7 +23,7 @@ Links to all the of the parts/software are included below:
 - <a href="https://www.amazon.com/gp/product/B075CM413G/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank"> 623ZZ Bearings (X-Axis) </a>
 - <a href="https://www.amazon.com/gp/product/B07FVXM3RK/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1" target="_blank"> 693ZZ Bearings (Y-Axis) </a>
 - <a href="https://www.amazon.com/gp/product/B00RWXJYVE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> Carbon Fiber Rods - 6mm ID x 8mm OD x 500mm </a>
-- <a href="https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> 1010 Right-Angle Bracket </a>
+- <a href="https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> 2020 Right-Angle Bracket </a>
 - <a href="https://www.amazon.com/gp/product/B07Y6CN9J4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> T8 Lead Screw POM Nuts (2 Pack) </a>
 
 ### Just so you know 💭
