@@ -7,21 +7,24 @@ A repo that converts an Anet A8 Plus into a GIANT Prusa MK3S with a few other sl
 ### Upgrades ⏫
 
 Links to all the of the parts/software are included below:
-- <a href="https://www.amazon.com/gp/product/B082QYYFVX/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="blank"> BIGTREETECH SKR 1.4 Turbo w/ TMC 2209 Drivers </a>
-    - <a href="https://www.amazon.com/gp/product/B01FFGAKK8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="blank"> BIQU A4988 Stepper Motor Drivers </a>
-    - <a href="https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="blank"> 40mm x 10mm Fan (2 Pack) </a>
-- <a href="https://www.amazon.com/gp/product/B07TJWSV51/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="blank"> BIGTREETECH TFT24 V1.1 </a>
-- <a href="https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="blank"> Raspberry Pi 3 B+ </a>
-    - <a href="https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="blank"> MP1584EN DC-DC Buck Converter </a>
-    - <a href="https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="blank"> Left-Angle Micro B USB Cable </a>
+- <a href="https://www.amazon.com/gp/product/B082QYYFVX/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> BIGTREETECH SKR 1.4 Turbo w/ TMC 2209 Drivers </a>
+    - <a href="https://www.amazon.com/gp/product/B01FFGAKK8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> BIQU A4988 Stepper Motor Drivers </a>
+    - <a href="https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> 40mm x 10mm Fan (2 Pack) </a>
+- <a href="https://www.amazon.com/gp/product/B07TJWSV51/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> BIGTREETECH TFT24 V1.1 </a>
+- <a href="https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank"> Raspberry Pi 3 B+ </a>
+    - <a href="https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> MP1584EN DC-DC Buck Converter </a>
+    - <a href="https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Left-Angle Micro B USB Cable </a>
     <a href="https://octoprint.org/" target="_blank"> OctoPrint </a>
-- <a href="https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="blank"> Genuine E3D V6 Hotend </a>
-- <a href="https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="blank"> Capacitive Auto Bed Leveling </a>
-- <a href="https://www.etsy.com/listing/941679083/metal-spacer-bed-springs?ref=shop_home_feat_1" target="blank"> Metal Spacer Bed "Springs" </a>
-- <a href="https://www.amazon.com/gp/product/B071RSDYW4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="blank"> Igus Drylin Polymer Bearings </a>
-- <a href="https://www.amazon.com/gp/product/B00RWXJYVE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="blank"> Carbon Fiber Rods - 6mm ID x 8mm OD x 500mm </a>
-- <a href="https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="blank"> 1010 Right-Angle Bracket </a>
-- <a href="https://www.amazon.com/gp/product/B07Y6CN9J4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="blank"> T8 Lead Screw POM Nuts (2 Pack) </a>
+- <a href="https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Genuine E3D V6 Hotend </a>
+- <a href="https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> Capacitive Auto Bed Leveling </a>
+- <a href="https://www.etsy.com/listing/941679083/metal-spacer-bed-springs?ref=shop_home_feat_1" target="_blank"> Metal Spacer Bed "Springs" </a>
+- <a href="https://www.amazon.com/gp/product/B071RSDYW4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> Igus Drylin Polymer Bearings </a>
+- <a href="https://www.amazon.com/gp/product/B07BPKWM9D/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1" target="_blank"> GT2 Idler Pulley (20 Teeth) </a>
+- <a href="https://www.amazon.com/gp/product/B075CM413G/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank"> 623ZZ Bearings (X-Axis) </a>
+- <a href="https://www.amazon.com/gp/product/B07FVXM3RK/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1" target="_blank"> 693ZZ Bearings (Y-Axis) </a>
+- <a href="https://www.amazon.com/gp/product/B00RWXJYVE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> Carbon Fiber Rods - 6mm ID x 8mm OD x 500mm </a>
+- <a href="https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> 1010 Right-Angle Bracket </a>
+- <a href="https://www.amazon.com/gp/product/B07Y6CN9J4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> T8 Lead Screw POM Nuts (2 Pack) </a>
 
 ### Just so you know 💭
 
@@ -55,17 +58,17 @@ I'm currently waiting on a few more parts to come in the mail, that will greatly
 
 ### Shout Outs 📣
 
-<a href="" target="_blank"> </a>
+<a href="" target="__blank"> </a>
 
 I would like to give a huge thank you to all of these folks who's designs helped me frankenstein this whole thing together, without your help this would've been a lot more difficult.
 
-- **3Displacement** - Extruder Carriage | <a href="https://www.thingiverse.com/thing:3942196" target="blank"> thing:3942196 </a>
-- **whosawhatsis** - Minimalistic MK7 Extruder Lever | <a href="https://www.thingiverse.com/thing:15718" target="blank"> thing:15718 </a>
-- **pekcitron** - X-Axis (BearExxa) | <a href="https://www.thingiverse.com/thing:4362586" target="blank"> thing:4362586 </a>
-- **anotherhowie** - X-Axis Belt Holder | <a href="https://www.thingiverse.com/thing:2134843" target="blank"> thing:2134843 </a>
+- **3Displacement** - Extruder Carriage | <a href="https://www.thingiverse.com/thing:3942196" target="_blank"> thing:3942196 </a>
+- **whosawhatsis** - Minimalistic MK7 Extruder Lever | <a href="https://www.thingiverse.com/thing:15718" target="_blank"> thing:15718 </a>
+- **pekcitron** - X-Axis (BearExxa) | <a href="https://www.thingiverse.com/thing:4362586" target="_blank"> thing:4362586 </a>
+- **anotherhowie** - X-Axis Belt Holder | <a href="https://www.thingiverse.com/thing:2134843" target="_blank"> thing:2134843 </a>
 - **good_idea** 
-    - X-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1424346" target="blank"> thing:1424346 </a>
-    - Y-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1445162" target="blank"> thing:1445162 </a>
-- **Maxinoha** - Y-Axis Belt Holder/ Motor Mount/ Idler-Tensioner | <a href="https://www.thingiverse.com/thing:2394683" target="blank"> thing:2394683 </a>
-- **MarNok** - Y-Axis Rod Mount | <a href="https://www.thingiverse.com/thing:3640806" target="blank"> thing:3640806 </a>
-- **Prusa 3D** - Z Axis Top/Bottom | <a href="https://www.prusa3d.com/prusa-i3-printable-parts/" target="blank"> Original Prusa i3 MK3S </a>
+    - X-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1424346" target="_blank"> thing:1424346 </a>
+    - Y-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1445162" target="_blank"> thing:1445162 </a>
+- **Maxinoha** - Y-Axis Belt Holder/ Motor Mount/ Idler-Tensioner | <a href="https://www.thingiverse.com/thing:2394683" target="_blank"> thing:2394683 </a>
+- **MarNok** - Y-Axis Rod Mount | <a href="https://www.thingiverse.com/thing:3640806" target="_blank"> thing:3640806 </a>
+- **Prusa 3D** - Z Axis Top/Bottom | <a href="https://www.prusa3d.com/prusa-i3-printable-parts/" target="_blank"> Original Prusa i3 MK3S </a>
