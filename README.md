@@ -7,20 +7,21 @@ A repo that converts an Anet A8 Plus into a GIANT Prusa MK3S with a few other sl
 ### Upgrades ⏫
 
 Links to all the of the parts/software are included below:
-
-- [BIGTREETECH SKR 1.4 Turbo w/ TMC 2209 Drivers](https://www.amazon.com/gp/product/B082QYYFVX/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-    - [40mm x 10mm Fan (2 Pack)](https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
-- [Raspberry Pi 3 B+](https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
-    - [MP1584EN DC-DC Buck Converter](https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-    - [Left-Angle Micro B USB Cable](https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-    - [OctoPrint](https://octoprint.org/)
-- [Genuine E3D V6 Hotend](https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-- [Capacitive Auto Bed Leveling](https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-- [Metal Spacer Bed "Springs"](https://www.etsy.com/listing/941679083/metal-spacer-bed-springs?ref=shop_home_feat_1)
-- [Igus Drylin Polymer Bearings](https://www.amazon.com/gp/product/B071RSDYW4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
-- [Carbon Fiber Rods - 6mm ID x 8mm OD x 500mm](https://www.amazon.com/gp/product/B00RWXJYVE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-- [2020 Right-Angle Bracket](https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-- [T8 Lead Screw POM Nuts (2 Pack)](https://www.amazon.com/gp/product/B07Y6CN9J4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+- <a href="https://www.amazon.com/gp/product/B082QYYFVX/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> BIGTREETECH SKR 1.4 Turbo w/ TMC 2209 Drivers </a>
+    - <a href="https://www.amazon.com/gp/product/B01FFGAKK8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> BIQU A4988 Stepper Motor Drivers </a>
+    - <a href="https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> 40mm x 10mm Fan (2 Pack) </a>
+- <a href="https://www.amazon.com/gp/product/B07TJWSV51/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> BIGTREETECH TFT24 V1.1 </a>
+- <a href="https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank"> Raspberry Pi 3 B+ </a>
+    - <a href="https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> MP1584EN DC-DC Buck Converter </a>
+    - <a href="https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Left-Angle Micro B USB Cable </a>
+    <a href="https://octoprint.org/" target="_blank"> OctoPrint </a>
+- <a href="https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Genuine E3D V6 Hotend </a>
+- <a href="https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> Capacitive Auto Bed Leveling </a>
+- <a href="https://www.etsy.com/listing/941679083/metal-spacer-bed-springs?ref=shop_home_feat_1" target="_blank"> Metal Spacer Bed "Springs" </a>
+- <a href="https://www.amazon.com/gp/product/B071RSDYW4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> Igus Drylin Polymer Bearings </a>
+- <a href="https://www.amazon.com/gp/product/B00RWXJYVE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> Carbon Fiber Rods - 6mm ID x 8mm OD x 500mm </a>
+- <a href="https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> 1010 Right-Angle Bracket </a>
+- <a href="https://www.amazon.com/gp/product/B07Y6CN9J4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> T8 Lead Screw POM Nuts (2 Pack) </a>
 
 ### Just so you know 💭
 
@@ -54,15 +55,17 @@ I'm currently waiting on a few more parts to come in the mail, that will greatly
 
 ### Shout Outs 📣
 
+<a href="" target="_blank"> </a>
+
 I would like to give a huge thank you to all of these folks who's designs helped me frankenstein this whole thing together, without your help this would've been a lot more difficult.
 
-- **3Displacement** - Extruder Carriage | [thing:3942196](https://www.thingiverse.com/thing:3942196)
-- **whosawhatsis** - Minimalistic MK7 Extruder Lever | [thing:15718](https://www.thingiverse.com/thing:15718)
-- **pekcitron** - X-Axis (BearExxa) | [thing:4362586](https://www.thingiverse.com/thing:4362586)
-- **anotherhowie** - X-Axis Belt Holder | [thing:2134843](https://www.thingiverse.com/thing:2134843)
+- **3Displacement** - Extruder Carriage | <a href="https://www.thingiverse.com/thing:3942196" target="_blank"> thing:3942196 </a>
+- **whosawhatsis** - Minimalistic MK7 Extruder Lever | <a href="https://www.thingiverse.com/thing:15718" target="_blank"> thing:15718 </a>
+- **pekcitron** - X-Axis (BearExxa) | <a href="https://www.thingiverse.com/thing:4362586" target="_blank"> thing:4362586 </a>
+- **anotherhowie** - X-Axis Belt Holder | <a href="https://www.thingiverse.com/thing:2134843" target="_blank"> thing:2134843 </a>
 - **good_idea** 
-    - X-Axis Bearing Blocks | [thing:1424346](https://www.thingiverse.com/thing:1424346)
-    - Y-Axis Bearing Blocks | [thing:1445162](https://www.thingiverse.com/thing:1445162)
-- **Maxinoha** - Y-Axis Belt Holder/ Motor Mount/ Idler-Tensioner | [thing:2394683](https://www.thingiverse.com/thing:2394683)
-- **MarNok** - Y-Axis Rod Mount | [thing:3640806](https://www.thingiverse.com/thing:3640806)
-- **Prusa 3D** - Z Axis Top/Bottom | [Original Prusa i3 MK3S](https://www.prusa3d.com/prusa-i3-printable-parts/)
+    - X-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1424346" target="_blank"> thing:1424346 </a>
+    - Y-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1445162" target="_blank"> thing:1445162 </a>
+- **Maxinoha** - Y-Axis Belt Holder/ Motor Mount/ Idler-Tensioner | <a href="https://www.thingiverse.com/thing:2394683" target="_blank"> thing:2394683 </a>
+- **MarNok** - Y-Axis Rod Mount | <a href="https://www.thingiverse.com/thing:3640806" target="_blank"> thing:3640806 </a>
+- **Prusa 3D** - Z Axis Top/Bottom | <a href="https://www.prusa3d.com/prusa-i3-printable-parts/" target="_blank"> Original Prusa i3 MK3S </a>
