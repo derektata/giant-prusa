@@ -7,7 +7,7 @@ A repo that converts an Anet A8 Plus into a GIANT Prusa MK3S with a few other sl
 ### Upgrades ⏫
 
 Links to all the of the parts/software are included below:
-- <a href="https://www.amazon.com/gp/product/B082QYYFVX/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> BIGTREETECH SKR 1.4 Turbo w/ TMC 2209 Drivers </a>
+- <a href="https://www.amazon.com/BIGTREETECH-Printer-Control-Smoothieboard-Upgrade/dp/B082YTYDCK/ref=sr_1_2?dchild=1&keywords=skr+1.4+turbo&qid=1611026087&sr=8-2" target="_blank"> BIGTREETECH SKR 1.4 Turbo </a>
     - <a href="https://www.amazon.com/gp/product/B01FFGAKK8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> BIQU A4988 Stepper Motor Drivers </a>
     - <a href="https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> 40mm x 10mm Fan (2 Pack) </a>
 - <a href="https://www.amazon.com/gp/product/B07TJWSV51/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> BIGTREETECH TFT24 V1.1 </a>
@@ -17,6 +17,7 @@ Links to all the of the parts/software are included below:
     <a href="https://octoprint.org/" target="_blank"> OctoPrint </a>
 - <a href="https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Genuine E3D V6 Hotend </a>
 - <a href="https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> Capacitive Auto Bed Leveling </a>
+- <a href="https://www.amazon.com/gp/product/B07ZCSXNF3/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> Mechanical Endstop Limit Switches </a>
 - <a href="https://www.etsy.com/listing/941679083/metal-spacer-bed-springs?ref=shop_home_feat_1" target="_blank"> Metal Spacer Bed "Springs" </a>
 - <a href="https://www.amazon.com/gp/product/B071RSDYW4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> Igus Drylin Polymer Bearings </a>
 - <a href="https://www.amazon.com/gp/product/B07BPKWM9D/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1" target="_blank"> GT2 Idler Pulley (20 Teeth) </a>
@@ -28,7 +29,7 @@ Links to all the of the parts/software are included below:
 
 ### Just so you know 💭
 
-#### This is NOT a beginner project, and definitely NOT for the faint of heart. 
+#### This is NOT a beginner project, and definitely NOT for the faint of heart.
 
 ##### It is currently in active development, and being updated regularly.
 
@@ -66,7 +67,7 @@ I would like to give a huge thank you to all of these folks who's designs helped
 - **whosawhatsis** - Minimalistic MK7 Extruder Lever | <a href="https://www.thingiverse.com/thing:15718" target="_blank"> thing:15718 </a>
 - **pekcitron** - X-Axis (BearExxa) | <a href="https://www.thingiverse.com/thing:4362586" target="_blank"> thing:4362586 </a>
 - **anotherhowie** - X-Axis Belt Holder | <a href="https://www.thingiverse.com/thing:2134843" target="_blank"> thing:2134843 </a>
-- **good_idea** 
+- **good_idea**
     - X-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1424346" target="_blank"> thing:1424346 </a>
     - Y-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1445162" target="_blank"> thing:1445162 </a>
 - **Maxinoha** - Y-Axis Belt Holder/ Motor Mount/ Idler-Tensioner | <a href="https://www.thingiverse.com/thing:2394683" target="_blank"> thing:2394683 </a>
