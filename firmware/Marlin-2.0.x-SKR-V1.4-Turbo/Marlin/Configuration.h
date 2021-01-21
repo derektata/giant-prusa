@@ -1129,16 +1129,16 @@
 // @section machine
 
 // The size of the print bed
-#define X_BED_SIZE 300
-#define Y_BED_SIZE 300
+#define X_BED_SIZE 270
+#define Y_BED_SIZE 250
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS -26
 #define Y_MIN_POS  -6
 #define Z_MIN_POS  0
-#define X_MAX_POS 300
-#define Y_MAX_POS 297
-#define Z_MAX_POS 370
+#define X_MAX_POS 275
+#define Y_MAX_POS 250
+#define Z_MAX_POS 350
 
 /**
  * Software Endstops
