@@ -8,7 +8,7 @@ A repo that converts an Anet A8 Plus into a GIANT Prusa MK3S with a few other sl
 
 Links to all the of the parts/software are included below:
 - <a href="https://www.amazon.com/BIGTREETECH-Printer-Control-Smoothieboard-Upgrade/dp/B082YTYDCK/ref=sr_1_2?dchild=1&keywords=skr+1.4+turbo&qid=1611026087&sr=8-2" target="_blank"> BIGTREETECH SKR 1.4 Turbo </a>
-    - <a href="https://www.amazon.com/gp/product/B01FFGAKK8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> BIQU A4988 Stepper Motor Drivers </a>
+    - <a href="https://www.amazon.com/gp/product/B07YW7BM68/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> BIGTREETECH TMC2209 Stepper Motor Drivers </a>
     - <a href="https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> 40mm x 10mm Fan (2 Pack) </a>
 - <a href="https://www.amazon.com/gp/product/B07TJWSV51/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> BIGTREETECH TFT24 V1.1 </a>
 - <a href="https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank"> Raspberry Pi 3 B+ </a>
@@ -55,7 +55,7 @@ I'm currently waiting on a few more parts to come in the mail, that will greatly
 * [x] Add custom firmware
 * [ ] Add list of parts needed
 * [ ] Add list of OctoPrint plugins
-* [ ] Create an Instruction Wiki
+* [x] Create an Instruction Wiki (Under Construction 🛠️)
 
 ### Shout Outs 📣
 
