@@ -1,5 +1,7 @@
 # giant-prusa
 
+![Giant Prusa](examples/photo1.jpg)
+
 ### 🧰 currently a work in progress 🛠️
 
 A repo that converts an Anet A8 Plus into a GIANT Prusa MK3S with a few other slight modifications.
@@ -14,11 +16,11 @@ Links to all the of the parts/software are included below:
 - <a href="https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank"> Raspberry Pi 3 B+ </a>
     - <a href="https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> MP1584EN DC-DC Buck Converter </a>
     - <a href="https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Left-Angle Micro B USB Cable </a>
-    <a href="https://octoprint.org/" target="_blank"> OctoPrint </a>
+    - <a href="https://octoprint.org/" target="_blank"> OctoPrint </a>
+- <a href="https://www.bondtech.se/product/prusa-i3-mk2-5-mk3-extruder-upgrade/" target="_blank"> Bondtech Prusa i3 MK2.5/3 Extruder Upgrade</a>
 - <a href="https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Genuine E3D V6 Hotend </a>
 - <a href="https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> Capacitive Auto Bed Leveling </a>
 - <a href="https://www.amazon.com/gp/product/B07ZCSXNF3/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> Mechanical Endstop Limit Switches </a>
-- <a href="https://www.etsy.com/listing/941679083/metal-spacer-bed-springs?ref=shop_home_feat_1" target="_blank"> Metal Spacer Bed "Springs" </a>
 - <a href="https://www.amazon.com/gp/product/B071RSDYW4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> Igus Drylin Polymer Bearings </a>
 - <a href="https://www.amazon.com/gp/product/B07BPKWM9D/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1" target="_blank"> GT2 Idler Pulley (20 Teeth) </a>
 - <a href="https://www.amazon.com/gp/product/B075CM413G/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank"> 623ZZ Bearings (X-Axis) </a>
