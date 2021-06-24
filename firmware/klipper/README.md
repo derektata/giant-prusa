@@ -1,6 +1,7 @@
 # giant prusa klipper configs
 ### **Mainboard**: *SKR 1.4 Turbo*
 #### +TMC2209's on X, Y, Z, & E
+#### +Sensorless Homing on X/Y
 #### +Bondtech Dual-Gear Extruder
   ##### (`rotation_distance` aka `e-steps` have been calibrated)
 #### +ABL Probe
