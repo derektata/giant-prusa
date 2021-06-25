@@ -14,9 +14,10 @@ Links to all the of the parts/software are included below:
     - <a href="https://www.amazon.com/gp/product/B0711FVD48/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1" target="_blank"> 40mm x 10mm Fan (2 Pack) </a>
 - <a href="https://www.amazon.com/gp/product/B07TJWSV51/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> BIGTREETECH TFT24 V1.1 </a>
 - <a href="https://www.amazon.com/gp/product/B01CMC50S0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank"> Raspberry Pi 3 B+ </a>
-    - <a href="https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> MP1584EN DC-DC Buck Converter </a>
-    - <a href="https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Left-Angle Micro B USB Cable </a>
-    - <a href="https://octoprint.org/" target="_blank"> OctoPrint </a>
+    - <a href="https://docs.fluidd.xyz/" target="_blank"> Fluidd </a>
+    - <a href="https://klipper3d.org" target="_blank"> Klipper </a>
+        - <a href="https://www.amazon.com/gp/product/B07RVG34WR/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> MP1584EN DC-DC Buck Converter </a>
+        - <a href="https://www.amazon.com/gp/product/B076DW7M5S/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Left-Angle Micro B USB Cable </a>
 - <a href="https://www.bondtech.se/product/prusa-i3-mk2-5-mk3-extruder-upgrade/" target="_blank"> Bondtech Prusa i3 MK2.5/3 Extruder Upgrade</a>
 - <a href="https://www.amazon.com/gp/product/B079H1S9BN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> Genuine E3D V6 Hotend </a>
 - <a href="https://www.amazon.com/gp/product/B01M1777XK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1" target="_blank"> Capacitive Auto Bed Leveling </a>
@@ -25,7 +26,6 @@ Links to all the of the parts/software are included below:
 - <a href="https://www.amazon.com/gp/product/B07BPKWM9D/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1" target="_blank"> GT2 Idler Pulley (20 Teeth) </a>
 - <a href="https://www.amazon.com/gp/product/B075CM413G/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1" target="_blank"> 623ZZ Bearings (X-Axis) </a>
 - <a href="https://www.amazon.com/gp/product/B07FVXM3RK/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1" target="_blank"> 693ZZ Bearings (Y-Axis) </a>
-- <a href="https://www.amazon.com/gp/product/B00RWXJYVE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> Carbon Fiber Rods - 6mm ID x 8mm OD x 500mm </a>
 - <a href="https://www.amazon.com/gp/product/B07GGLYX9V/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1" target="_blank"> 2020 Right-Angle Bracket </a>
 - <a href="https://www.amazon.com/gp/product/B07Y6CN9J4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="_blank"> T8 Lead Screw POM Nuts (2 Pack) </a>
 
@@ -50,7 +50,6 @@ You **WILL** have to measure and cut the Carbon Fiber Rods down to size, **PLEAS
 * [ ] Add photos
 * [x] Add custom firmware
 * [ ] Add list of parts needed
-* [ ] Add list of OctoPrint plugins
 * [x] Create an Instruction Wiki (Under Construction 🛠️)
 
 ### Shout Outs 📣
@@ -66,5 +65,5 @@ I would like to give a huge thank you to all of these folks who's designs helped
     - X-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1424346" target="_blank"> thing:1424346 </a>
     - Y-Axis Bearing Blocks | <a href="https://www.thingiverse.com/thing:1445162" target="_blank"> thing:1445162 </a>
 - **Maxinoha** - Y-Axis Belt Holder/ Motor Mount/ Idler-Tensioner | <a href="https://www.thingiverse.com/thing:2394683" target="_blank"> thing:2394683 </a>
-- **MarNok** - Y-Axis Rod Mount | <a href="https://www.thingiverse.com/thing:3640806" target="_blank"> thing:3640806 </a>
+- **danimod** - Y-Axis Rod Mount | <a href="https://www.thingiverse.com/thing:3738204" target="_blank"> thing:3738204 </a>
 - **Prusa 3D** - Z Axis Top/Bottom | <a href="https://www.prusa3d.com/prusa-i3-printable-parts/" target="_blank"> Original Prusa i3 MK3S </a>
