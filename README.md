@@ -43,7 +43,7 @@ With that being said, if you have any questions, feel free to ask in the Discuss
 
 - **PLEASE** make sure that your printer is calibrated before attempting to print these parts. A lot of these parts can be printed without supports but there some that require them. Another option if you don't have a printer available to you would be to order them from an online 3D printing service.
 
-You **WILL** have to measure and cut the Carbon Fiber Rods down to size, **PLEASE** use the proper PPE, measure twice to be precise and **BE SAFE** while cutting the rods down to size. You don't want to breathe any of the dust produced while cutting as it extremely hazardous to your lungs.
+You **WILL** have to measure and cut the smooth rods down to size, **PLEASE** use the proper PPE, measure twice to be precise and **BE SAFE** while cutting the rods down to size. You don't want to breathe any of the dust produced while cutting as it extremely hazardous to your lungs.
 
 ### To-Do List 📝
 
